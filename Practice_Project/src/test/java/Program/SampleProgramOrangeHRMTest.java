@@ -10,12 +10,13 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 public class SampleProgramOrangeHRMTest {
+	WebDriver driver;
 	@Test
 	public void sampleProgram2()
 	{
 		System.out.println("SampleProgram2 execution start");
 		//WebDriver driver=new ChromeDriver();
-		WebDriver driver=null;
+		
 		String Browser=System.getProperty("browser");
 		if (Browser.equals("chrome")) {
 			driver = new ChromeDriver();
