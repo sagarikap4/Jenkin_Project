@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-30T12:43:43 IST" name="Suite" finished-at="2024-05-30T12:44:38 IST" duration-ms="55812">
+    <groups>
+    </groups>
+    <test started-at="2024-05-30T12:43:43 IST" name="Test" finished-at="2024-05-30T12:44:38 IST" duration-ms="55812">
+      <class name="Program.SampleProgram7Test">
+        <test-method signature="sampleProgram7()[pri:0, instance:Program.SampleProgram7Test@6743e411]" started-at="2024-05-30T12:43:43 IST" name="sampleProgram7" finished-at="2024-05-30T12:44:38 IST" duration-ms="55695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleProgram7 -->
+      </class> <!-- Program.SampleProgram7Test -->
+      <class name="Program.SampleProgram8Test">
+        <test-method signature="sampleProgram8()[pri:0, instance:Program.SampleProgram8Test@3fc2959f]" started-at="2024-05-30T12:43:43 IST" name="sampleProgram8" finished-at="2024-05-30T12:43:43 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleProgram8 -->
+      </class> <!-- Program.SampleProgram8Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
